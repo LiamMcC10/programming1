@@ -1,0 +1,145 @@
+body {
+  color: #000000;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #FAEEE7;
+}
+
+a {
+  color: #24A19C;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #66BFBF;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin-top: 50;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #6998AB 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.contact-me {
+  margin-bottom: 50px;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #ffffff;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.Top-container {
+  background-color: #126E82;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #126E82;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.btn {
+  background: #4b718a;
+  background-image: -webkit-linear-gradient(top, #4b718a, #2980b9);
+  background-image: -moz-linear-gradient(top, #4b718a, #2980b9);
+  background-image: -ms-linear-gradient(top, #4b718a, #2980b9);
+  background-image: -o-linear-gradient(top, #4b718a, #2980b9);
+  background-image: linear-gradient(to bottom, #4b718a, #2980b9);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 5px 20px 5px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.golf {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.grass {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
